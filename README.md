@@ -20,7 +20,7 @@ This mod exists to provide access to the work in progress API methods contained 
 ## Prerequisites
 
 1. Have LurkBait Twitch Fishing owned, and downloaded onto your machine.
-2. Download [LurkBaitAPIMod]([#placeholder](https://github.com/Landiie/LurkBaitAPIMod/releases))
+2. Download [LurkBaitAPIMod]([#placeholder](https://github.com/Landiie/LurkBaitAPIMod/releases)
 3. Download [BepInEx 5.4.23.2](https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip)
 
 ## Installation

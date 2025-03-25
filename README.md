@@ -46,7 +46,7 @@ Depending on what you're using this mod for, please read the section that applie
 
 You're probably pointed here because you were told this mod gets your Twitch functionality back via SAMMI, or some other stream assistant application. You can download the accompanying integrations from the list below, I will update the list as people make more things!
 
-    - [LurkBait Twitch Fishing - SAMMI Extension](#placeholder)
+- [LurkBait Twitch Fishing - SAMMI Extension](#placeholder)
 
 If you know how to connect to WebSocket servers and work with them, you can read the developers section too!
 
